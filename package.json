@@ -1,0 +1,17 @@
+{
+  "name": "mern_project",
+  "version": "1.0.0",
+  "description": "```Finance Tracker Application Project\r 1. Login reg\r 2. Dashboard- show all the logged in users expenses\r 3. Form to create a new expense\r     1. Name (eg: chipotle)\r     2. Date (filter by a field)\r     3. Category\r     4. Amount\r 4. Full crud functionality for expenses\r 5. Show expenses by filtering by category\r 6. Show expenses by filtering by date range\r 7. Have a page where you can show your expenses in a pie chart (by category)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
